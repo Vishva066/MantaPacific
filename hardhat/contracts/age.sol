@@ -2,8 +2,8 @@
 
 pragma solidity 0.8.6;
 
-//contract name is MyFirstContract
-contract UserDetails {
+//contract name is Age
+contract Age {
 
     uint private age;
 
@@ -11,7 +11,7 @@ contract UserDetails {
         age = _age;
     }
 
-    function getage() public view  returns(uint){
+    function getage() public view returns(uint){
 
         return age;
 
