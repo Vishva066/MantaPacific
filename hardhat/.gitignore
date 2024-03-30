@@ -1,5 +1,5 @@
 secrets.json
-/artifacts
-/cache
-/node_modules
 package-lock.json
+artifacts/
+cache/
+node_modules/
